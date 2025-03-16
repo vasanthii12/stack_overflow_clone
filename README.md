@@ -2,13 +2,18 @@
 
 ## Description
 This is a web application clone of Stack Overflow that allows users to ask questions and receive both AI-generated and human answers using the DeepSeek API. The application is built with Next.js and utilizes React for the frontend.
+
 ![Overview](overview/home.jpg)
+
 ## Features
 - **AI-Powered Answers**: Users can ask questions, and the application generates responses using the DeepSeek API.
+- 
  ![Overview](overview/ans.jpg)
 - **User-Friendly Interface**: The application provides a clean and intuitive interface for submitting questions and viewing answers.
+- 
 - ![Overview](overview/ask.jpg)
-- ![Overview](overview/ai.jpg)
+- ![Overview](overview/ai.jpeg)
+- 
 - **Error Handling**: The application includes robust error handling to manage API errors and user input validation.
 - **Responsive Design**: The application is built to be responsive, ensuring a good user experience on both desktop and mobile devices.
 
